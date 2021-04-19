@@ -29,7 +29,6 @@ p::before {
     position: absolute;
     left: -31px;
     top: 17px;
-    width: 0;
 }
 
 [data-person="Osama"]::after {
